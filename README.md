@@ -1,6 +1,7 @@
-# 👋 Hey, I'm Kenny Han
+w# 👋 Hey, I'm Kenny Han
 
-I'm a Computer Science and Data Science student at the University of Pittsburgh (Minor in Math, Honors • GPA: 3.9/4.0), passionate about backend engineering, AI/ML, and building impactful systems at scale.
+I'm a Computer Science and Data Science student at the University of Pittsburgh (Minor in Math, Honors • GPA: 3.9/4.0), passionate about backend engineering, AI/ML, and building impactful sywtems at scale.
+<span style="font-family: 'Courier New'; font-size: 16px;">This is Courier font!</span>
 
 ---
 
