@@ -15,7 +15,7 @@ I'm a Computer Science and Data Science student at the University of Pittsburgh 
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech                                                
 
 **Languages:** Python, Java, C++, C#, SQL  
 **Frameworks:** Spring Boot, Node.js, React, ASP.NET Core, Blazor  
@@ -33,19 +33,7 @@ I'm a Computer Science and Data Science student at the University of Pittsburgh 
 
 ---
 
-## 🏆 Awards
-
-- 1st Place – SteelHacks (2022, 2024)  
-- 1st Place – CSC Hackathon + People's Choice (2023)  
-- 1st Place – Pitt Shark Tank (2024)  
-- 1st Place – SheInnovates (2023)  
-- 1st Place – Pitt Math Research Presentation (2024)  
-
----
-
-## 📫 Let’s Connect
-
-📧 han.kenny04@gmail.com  
+## ✈️ Let’s Connect
 🔗 [LinkedIn](https://www.linkedin.com/in/kennyhan)  
 
 
