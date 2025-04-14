@@ -12,12 +12,6 @@ I'm a Computer Science and Data Science student at the University of Pittsburgh.
 
 ## 🚀 Highlights
 
-- **Founder** of Pitt’s AI-Powered Lost & Found System (serving 30k+ students)
-- **Interned at AEO, PNC, and CMU**, working on:
-  - Cloud microservices (GKE, Argo, Bamboo CI/CD)
-  - Data pipelines and automation
-  - Computer vision with synthetic data (U-Net)
-- **Hackathon & Startup Wins**: 6+ 1st-place awards including CSC Hacks, Shark Tank, SheInnovates
 
 ---
 
