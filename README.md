@@ -1,8 +1,11 @@
 👋 Hey, I'm Kenny Han
 
-I'm a Computer Science and Data Science student at the University of Pittsburgh. 
+I'm a Computer Science and Data Science student at the University of Pittsburgh.
+
 ☁️ Backend engineering
+
 🤖 AI/ML
+
 ⚖️ Building impactful systems at scale
 
 ---
