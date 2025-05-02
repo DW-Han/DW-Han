@@ -10,25 +10,20 @@ My focus is on:
 ---
 
 ## 🚀 Highlights
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
-<div style="width: 48%">
 
 - [**2024 1st Place SteelHacks**](https://www.sci.pitt.edu/news/steelhacks-2024)  
 - [**2024 1st Place Pitt Math Research Presentation**](https://www.linkedin.com/posts/casey-dinan_i-recently-had-the-opportunity-to-participate-activity-7192200529509253120-Pssm?utm_source=share&utm_medium=member_desktop)  
 - [**2024 1st Place Pitt Shark Tank**](https://www.sci.pitt.edu/news/sci-undergrads-winning-app-idea-pitt-tank-2024)
 
-</div>
 
-<div style="width: 48%">
+
 
 - [**2023 1st Place CSC Hacks & People's Choice**](https://www.linkedin.com/posts/cscatpitt_last-semester-we-held-our-annual-member-hackathon-activity-7162717068314800128-2S6y?utm_source=share&utm_medium=member_desktop)  
 - [**2023 1st Place SheInnovates Hackathon**](https://github.com/DW-Han/pp-translation)  
 - [**2022 1st Place SteelHacks**](https://dw-han.github.io/DW-Han-Ordinary-Differential-DFEILD-Solution-Grapher/)
 
-</div>
 
-</div>
 
 ---
 
