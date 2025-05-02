@@ -17,11 +17,6 @@ I'm a Computer Science and Data Science student at the University of Pittsburgh.
 
 ## 🛠 Tech                                                
 
-**Languages:** Python, Java, C++, C#, SQL  
-**Frameworks:** Spring Boot, Node.js, React, ASP.NET Core, Blazor  
-**AI/ML:** PyTorch, TensorFlow, scikit-learn, OpenCV  
-**Cloud & Tools:** Google Cloud (GKE), ArgoCD, Bamboo, Postman, Selenium  
-**Databases:** PostgreSQL, SQL Server, OracleDB
 
 ---
 
