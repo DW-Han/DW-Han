@@ -33,7 +33,7 @@ My focus is on:
 ---
 
 ## ✈️ Let’s Connect
-🔗 [LinkedIn](https://www.linkedin.com/in/kennyhan)  
+🔗 [LinkedIn]([https://www.linkedin.com/in/kennyhan](https://www.linkedin.com/in/dwh-han/))  
 
 
 <!--
