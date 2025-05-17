@@ -1,4 +1,4 @@
-👋 Hey, I'm Kenny Han
+👋 Hey, I'm Ken
 
 I'm a Computer Science and Data Science graduate from the University of Pittsburgh.
 
