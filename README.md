@@ -2,9 +2,9 @@
 
 I'm a Computer Science and Data Science graduate from the University of Pittsburgh.
 
-*  ☁️ 
-*  🤖 
-*  ⚖️ 
+*  ☁️🧱🖥️
+*  🤖🧠⚙️
+*  ⚖️📦🧭
 
 
 
