@@ -2,10 +2,9 @@
 
 I'm a Computer Science and Data Science graduate from the University of Pittsburgh.
 
-My focus is on:
-* Backend engineering ☁️ 
-* AI/ML 🤖 
-* Building impactful systems at scale ⚖️ 
+*  ☁️ 
+*  🤖 
+*  ⚖️ 
 
 
 
