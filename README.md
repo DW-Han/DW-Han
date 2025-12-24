@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hey, I'm Ken</h3>
 
 <p align="center">
-  I'm a Computer Science and Data Science graduate from the University of Pittsburgh.
+  I'm a Computer Science and Mathematics graduate
 </p>
 
 <p align="center" style="font-size: 2rem;">
