@@ -2,8 +2,6 @@
 
 <p align="center">
   Mathematics and Computer Science
-
-  TPU AI Infra @ Google
 </p>
 
 <p align="center" style="font-size: 2rem;">
@@ -12,6 +10,9 @@
   ⚖️📦🧭
 </p>
 
+<p align="center">
+  TPU AI Infra @ Google
+</p>
 
 <!--
 **DW-Han/DW-Han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
